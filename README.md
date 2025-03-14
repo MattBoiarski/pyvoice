@@ -1,5 +1,5 @@
 # PyVoice
-
+[![PyPI version](https://badge.fury.io/py/pyvoice.svg)](https://badge.fury.io/py/pyvoice)
 PyVoice is a real-time speech-to-text transcription tool using machine learning. It provides a graphical user interface for recording audio and transcribing it into text.
 
 ## Features
