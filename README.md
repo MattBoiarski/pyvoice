@@ -1,5 +1,4 @@
 # PyVoice
-[![PyPI version](https://badge.fury.io/py/pyvoice.svg)](https://badge.fury.io/py/pyvoice)
 
 PyVoice is a real-time speech-to-text transcription tool using machine learning. It provides a graphical user interface for recording audio and transcribing it into text.
 
@@ -24,15 +23,7 @@ The script automatically checks for and installs the following required packages
 ## Installation
 
 1. Ensure you have Python installed on your system.  
-2. Download the PyVoice script file.
-
-# Installing PyVoice
-Either by cloning the github repo locally, or by using pip.
-
-To install PyVoice from PyPI, use the following command:
-```sh
-pip install pyvoice  
-```
+2. Download the PyVoice script file.  
 3. Run the script. It will automatically check for and install required packages.  
 
 ## Usage
