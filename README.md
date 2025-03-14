@@ -27,7 +27,7 @@ The script automatically checks for and installs the following required packages
 2. Download the PyVoice script file.
 
 # Installing PyVoice
-Either by cloningthe github repo, or by using pip.
+Either by cloning the github repo locally, or by using pip.
 
 To install PyVoice from PyPI, use the following command:
 ```sh
